@@ -1,4 +1,4 @@
 # hello-world
 
-Thanos     : I'm Inevitable
-Tony Stark : And I'm Iron Man (SNAP)
+Thanos     : I'm Inevitable (SNAPs but nothing happens)
+Tony Stark : And I'm Iron Man (SNAPs Thanos force disappears)
